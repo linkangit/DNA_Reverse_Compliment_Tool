@@ -1,5 +1,6 @@
 # DNA Reverse Complement Tool: Complete Beginner's Tutorial
 
+![](RevCom.png)
 ## What is a Reverse Complement?
 
 Before diving into the code, let's understand what we're building. In molecular biology, DNA exists as a double helix with two complementary strands running in opposite directions.
